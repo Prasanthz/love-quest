@@ -137,12 +137,18 @@ document.addEventListener('DOMContentLoaded', () => {
 
 const LOVE_LETTER = `My dearest [NAME],
 
-I made all of this — the path, the games, the silly puzzles — for one reason. To say what I sometimes forget to say out loud.
+I’m really, really sorry 🥺. I know I keep hurting you all the time, and even after all that, you still don’t leave me. I honestly don’t know what I did to deserve a wife like you 💍❤️.
 
-You are my favorite chapter of every day. The quiet ones, the loud ones, the ones where I forget my keys and you laugh at me anyway.
+No matter how much we fight, I have never even once thought that I could leave you. I can’t promise that I’ll always be perfect, but I can promise one thing — I will never leave you. If I get hurt, it’s because I expected something and ended up getting disappointed. That’s not your fault, and I know you can’t do anything about that 💔.
+
+I promise you that in the future, I will keep you happy 💯❤️. I can’t even imagine my life without you. You are my whole world 🌍❤️. Please don’t leave me, because I would be completely broken 😔. I don’t even know what to say properly because I know I’ve hurt you so much. No matter how many times I say sorry, it still won’t be enough. But still, I’m truly sorry 😞❤️.
+
+You can even think of me as a fool and leave it at that 😂. Yesterday, the moment I saw you in class, everything felt alright again 🥹❤️. But if you had come when I called you, I would have literally fallen at your feet 😭🙈 — you missed that chance 😂.
+
+I’m really sorry 😔. Please forgive me ❤️. I’ll truly try not to repeat this again 🤞💯.
 
 Thank you for being mine.
-I love you. Forever and a day. ✿`;
+I love you my chella pondatti. ✿`;
 
 /* ============== Sound (Howler) ============== */
 let bgm = null;
@@ -1313,7 +1319,7 @@ if(_l5Reset){
 /* =========================================================
    SURPRISE — parchment letter + photo gallery
    ========================================================= */
-const LETTER_SIGN = 'Forever & a day,\nyours ♥';
+const LETTER_SIGN = 'Forever & a day,\nyours Loosu ♥';
 
 const GALLERY = [
   { src: 'assets/images/memories/memory-1.jpg',  caption: 'holding you close and dreaming of a little one with your beautiful eyes ♡' },
