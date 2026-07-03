@@ -1095,13 +1095,14 @@ em{font-style:italic;}
   background-size:220% 100%;
   animation:shineSweep 5s ease-in-out infinite;
 }
-@keyframes shineSweep{0%,100%{background-position:140% 0;}50%{background-position:-40% 0;}}
 .gallery-caption{
-  position:absolute;left:0;right:0;bottom:15px;
+  position:absolute;left:0;right:0;bottom:0;
   font-family:'Caveat',cursive;
   font-size:22px;
   color:#5a3a1f;
   text-align:center;
+  padding:18px 20px 15px;
+  background:linear-gradient(to top, rgba(255,255,255,0.95) 40%, rgba(255,255,255,0));
 }
 .gallery-nav{
   position:absolute;top:42%;

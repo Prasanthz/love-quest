@@ -1316,12 +1316,12 @@ if(_l5Reset){
 const LETTER_SIGN = 'Forever & a day,\nyours ♥';
 
 const GALLERY = [
-  { src: 'assets/images/memories/memory-1.JPG',  caption: 'holding you close and dreaming of a little one with your beautiful eyes ♡' },
-  { src: 'assets/images/memories/memory-2.JPG',  caption: 'that shy smile of yours still steals my heart every single time ✨' },
-  { src: 'assets/images/memories/memory-3.jpeg', caption: 'one of my favorite days — standing beside you on your graduation, proud and in love ♥' },
-  { src: 'assets/images/memories/memory-4.jpeg', caption: 'a picture that feels like our future — you and me, husband and wife forever ♾️' },
-  { src: 'assets/images/memories/memory-5.jpeg', caption: 'even a simple video call with you making coffee turns into one of my sweetest memories ☕💕' },
-  { src: 'assets/images/memories/memory-6.jpeg', caption: 'from your childhood smile to the woman you are now, every version of you is precious to me 🌸' },
+  { src: 'assets/images/memories/memory-1.jpg',  caption: 'holding you close and dreaming of a little one with your beautiful eyes ♡' },
+  { src: 'assets/images/memories/memory-2.jpg',  caption: 'that shy smile of yours still steals my heart every single time ✨' },
+  { src: 'assets/images/memories/memory-3.jpg', caption: 'one of my favorite days — standing beside you on your graduation, proud and in love ♥' },
+  { src: 'assets/images/memories/memory-4.jpg', caption: 'a picture that feels like our future — you and me, husband and wife forever ♾️' },
+  { src: 'assets/images/memories/memory-5.jpg', caption: 'even a simple video call with you making coffee turns into one of my sweetest memories ☕💕' },
+  { src: 'assets/images/memories/memory-6.jpg', caption: 'from your childhood smile to the woman you are now, every version of you is precious to me 🌸' },
 ];
 
 let surpriseTimers = [];
